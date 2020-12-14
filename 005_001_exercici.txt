@@ -1,5 +1,5 @@
 Exercici Cibernarium Curs acces ITAcademy 2020
 
-
-
 correu electrónic: familiapuigoriol@gmail.com (introducció de text, branca principal o master)
+
+nom usuari: Jordi Puigoriol Masramon (modificació des d'una branca)
